@@ -1,0 +1,6 @@
+@RT_Inventory.Api_HostAddress = http://localhost:5245
+
+GET {{RT_Inventory.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

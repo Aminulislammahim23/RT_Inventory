@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+AZYED4p40=",
+  "success": true,
+  "projectFilePath": "C:\\workflow\\RT_Inventory\\RT_Inventory.Api\\RT_Inventory.Api\\RT_Inventory.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ripai\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\ripai\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
